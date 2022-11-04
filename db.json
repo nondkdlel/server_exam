@@ -1,45 +1,125 @@
 {
   "data": [
     {
-      "artist": "fdgfdg",
-      "title": "dfgdfgdfg",
+      "artist": "태연 (TAEYEON)",
+      "title": "U R",
       "like": false,
-      "comment": "dfgfgdfgdfgssss수정수정",
-      "id": 2
-    }
-  ],
-  "nickList": [
-    {
-      "nickname": "sss",
-      "id": 1,
-      "comment": "sssssss",
-      "date": "22.10.14"
-    },
-    {
-      "nickname": "ss",
-      "id": 2
-    },
-    {
-      "nickname": "",
+      "comment": "ㅜ우우우우아아아아아유아아아아\nㅇ유ㅠ유ㅠ유유\n\n유유유유",
+      "link": "pxk6uXSb4iM",
       "id": 3
     },
     {
-      "nickname": "ff",
-      "id": 4
+      "artist": "xx",
+      "title": "xx",
+      "like": true,
+      "comment": "xx",
+      "id": 4,
+      "link": "vo2HwVjKP_g"
     },
     {
-      "nickname": "ff",
-      "comment": "ffff",
-      "date": "22.10.14",
-      "id": 5
+      "artist": "아티스트",
+      "title": "추천 노래 제목",
+      "like": false,
+      "comment": "한줄평\n을\n입력\n하기",
+      "id": 5,
+      "link": "vo2HwVjKP_g"
+    },
+    {
+      "artist": "볼빨간사춘기",
+      "title": "너는 내 세상이었어",
+      "like": true,
+      "comment": "어쩌구 저쩌구\n이 바보야 진짜 아니야~~~",
+      "id": 6,
+      "link": "pC2SFHj4-3Y"
+    },
+    {
+      "artist": "어쩌구",
+      "title": "저쩌구",
+      "like": false,
+      "comment": "확인\n학인\n혹인",
+      "link": "Ywqpj-SIAqA",
+      "id": 7
+    }
+  ],
+  "commentList": [
+    {
+      "dataId": 4,
+      "nickname": "사랑해",
+      "comment": "작성 작성 작성",
+      "date": "22.10.25",
+      "id": 9,
+      "isReply": true
+    },
+    {
+      "dataId": 5,
+      "nickname": "오리꽥꽥",
+      "comment": "재작성sss",
+      "date": "22.10.25",
+      "id": 12,
+      "isReply": false
+    },
+    {
+      "dataId": 3,
+      "nickname": "nick1",
+      "comment": "확인중중gg",
+      "date": "22.10.26",
+      "id": 13,
+      "isReply": true
+    },
+    {
+      "dataId": 3,
+      "nickname": "오리꽥꽥",
+      "comment": "안녕 나는 오리 꽥꽥이야ghgh",
+      "date": "22.10.26",
+      "id": 14,
+      "isReply": true
+    },
+    {
+      "dataId": 5,
+      "nickname": "오리꽥꽥",
+      "comment": "에피소드를 입력해볼게\n어때?\n잘 나오니?\n더 작성을 해봐야 알겠구나.. 그래.. 오키.. 하는 중.. 작성하는 중",
+      "date": "22.10.27",
+      "id": 15,
+      "isReply": true
+    },
+    {
+      "dataId": 4,
+      "nickname": "오리꽥꽥",
+      "comment": "dfgfdgfgd",
+      "date": "22.10.28",
+      "id": 16,
+      "isReply": true
     }
   ],
   "users": [
     {
       "email": "nondkdlel@naver.com",
-      "password": "$2a$10$R2jbeUyFHP1gFEb7nOcRTu1w1k/fn/SPd3SGxRrpnZi0pLyaCf7CS",
+      "password": "$2a$10$qdXlUxT.psSnpnWgIxm9SeY59phMY7fyq7.jZBxRPXz3YnmB0y5uO",
       "name": "정주희",
+      "nickname": "닉네임수정",
       "id": 1
+    },
+    {
+      "email": "test111@naver.com",
+      "password": "$2a$10$PQH2QUlDLsuEgvkjCpUUTOUqt7tTd6ASTPNJrIFqh6bd6M/2CX35O",
+      "name": "홍길동",
+      "nickname": "주디",
+      "id": 2
+    },
+    {
+      "email": "test22@naver.com",
+      "password": "$2a$10$HL2KgoO8WNYT87fG.2V3T.s1uVY74p43oLbI9lFW2RgJ6HyaliUzi",
+      "name": "홍길순",
+      "nickname": "강하다",
+      "id": 3
+    },
+    {
+      "email": "qkrgksdma17@gmail.com",
+      "password": "$2a$10$niMzcJPjjgBrLG5gdrlZoO02dSX8nh3gG1hLljw4LCJIVGM6M.8ji",
+      "name": "박한음",
+      "nickname": "nick1",
+      "id": 4
     }
-  ]
+  ],
+  "replyList": []
 }
