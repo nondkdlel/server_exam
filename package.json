@@ -7,7 +7,7 @@
   "scripts": {
     "start": "json-server-auth --watch db.json --port 3001",
     "dev": "json-server-auth --watch db.json --port 3001",
-    "pm2": "pm2 start yarn ecosystem.config.js -- start"
+    "pm2": "pm2 start ecosystem.config.js --env production"
   },
   "dependencies": {
     "axios": "^1.1.0",
